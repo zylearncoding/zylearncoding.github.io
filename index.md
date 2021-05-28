@@ -25,4 +25,10 @@ body {
   background-size: cover;
 }
 </style> -->
-<img src="./publpics/bg.png"  width="128"/>
+<!-- <img src="./publpics/bg.png"  width="128"/> -->
+
+<div class="span2">
+        <a href="../pics/zhengye.png">
+            <img src="../pics/zhengye.png"
+                  title="Zhengye Yang" alt="Zhengye Yang"/></a>
+        </div>
