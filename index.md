@@ -17,11 +17,12 @@ keywords: Computer Vision, Deep Learning
 </div> -->
 
 
-<style>
+<!-- <style>
 body {
   background-image: url('publpics/bg.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
 }
-</style>
+</style> -->
+<img src="publpics/bg.png" alt="Maui Sea" width="128"/>
