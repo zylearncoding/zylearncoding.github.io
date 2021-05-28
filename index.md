@@ -17,15 +17,15 @@ keywords: Computer Vision, Deep Learning
 </div> -->
 
 
-<!-- <style>
+<style>
 body {
-  background-image: url('publpics/bg.png');
+  background-image: url('../publpics/bg_screen.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
 }
-</style> -->
-<img src="../publpics/bg_screen.png"  width="1280"/>
+</style>
+<!-- <img src="../publpics/bg_screen.png"  width="1280"/> -->
 
 <!-- <div class="span2">
         <a href="../publpics/bg_screen.png">
