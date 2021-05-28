@@ -25,4 +25,4 @@ body {
   background-size: cover;
 }
 </style> -->
-<img src="publpics/bg.png" alt="Maui Sea" width="128"/>
+<img src="../publpics/bg.png"  width="128"/>
