@@ -19,8 +19,14 @@ Columbia Univeristy; his PhD advisor is
 [LinkedIn  ![LinkedIn as link](icons64/linkedin-icon.png)](https://www.linkedin.com/in/zhengye-yang/)<br/>
 he/him
 
-<a href="https://www.w3schools.com">
-<img border="0" alt="W3Schools" src="icons64/linkedin-icon.png" width="100" height="100">
+<a href="https://www.linkedin.com/in/zhengye-yang/">
+<img border="0" alt="LinkedIn" src="high_res_icon/linkedin-icon.png" width="100" height="100">
+</a>
+<a href="https://github.com/zylearncoding">
+<img border="0" alt="Github" src="high_res_icon/github-icon.png" width="100" height="100">
+</a>
+<a href="https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en">
+<img border="0" alt="GoogleScholar" src="high_res_icon/googlescholar-icon.png" width="100" height="100">
 </a>
 
 
