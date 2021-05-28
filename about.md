@@ -20,16 +20,16 @@ Columbia Univeristy; his PhD advisor is
 he/him -->
 
 <a href="{{ BASE_PATH }}/zhengye_cv_2_1.pdf">
-<img border="0" alt="CV" src="high_res_icon/cv-icon.png" width="100" height="100">
+<img border="0" alt="CV" src="high_res_icon/cv-icon.png" width="64" height="64">
 </a>
 <a href="https://www.linkedin.com/in/zhengye-yang/">
-<img border="0" alt="LinkedIn" src="high_res_icon/linkedin-icon.png" width="100" height="100">
+<img border="0" alt="LinkedIn" src="high_res_icon/linkedin-icon.png" width="64" height="64">
 </a>
 <a href="https://github.com/zylearncoding">
-<img border="0" alt="Github" src="high_res_icon/github-icon.png" width="100" height="100">
+<img border="0" alt="Github" src="high_res_icon/github-icon.png" width="64" height="64">
 </a>
 <a href="https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en">
-<img border="0" alt="GoogleScholar" src="high_res_icon/googlescholar-icon.png" width="100" height="100">
+<img border="0" alt="GoogleScholar" src="high_res_icon/googlescholar-icon.png" width="64" height="64">
 </a>
 
 
