@@ -13,10 +13,10 @@ MS in [Electrical Engineering](https://www.ee.columbia.edu) in 2020, from the
 Columbia Univeristy; his PhD advisor is
 [Rich Radke](https://www.ecse.rpi.edu/~rjradke/index.htm).
 
-[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/zhengye_cv_2_1.pdf)<br/>
-[Google Scholar ![GS as link](icons16/googlescholar-icon.png)](https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en)<br/>
-[Github  ![Git as link](icons16/github-icon.png)](https://github.com/zylearncoding)<br/>
-[LinkedIn  ![LinkedIn as link](icons16/linkedin-icon.png)](https://www.linkedin.com/in/zhengye-yang/)<br/>
+[Curriculum Vitae ![CV as pdf](icons64/pdf-icon.png)]({{ BASE_PATH }}/zhengye_cv_2_1.pdf)<br/>
+[Google Scholar ![GS as link](icons64/googlescholar-icon.png)](https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en)<br/>
+[Github  ![Git as link](icons64/github-icon.png)](https://github.com/zylearncoding)<br/>
+[LinkedIn  ![LinkedIn as link](icons64/linkedin-icon.png)](https://www.linkedin.com/in/zhengye-yang/)<br/>
 he/him
 
 <a href="https://www.w3schools.com">
