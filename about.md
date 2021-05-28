@@ -3,7 +3,7 @@ layout: page
 title: about
 description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision
 ---
-Zhengye Yang is incoming Ph.D. student in the [Electrical, Computer, &amp Systems Engineering](https://www.ecse.rpi.edu) at Rensselaer Polytechnic Institute
+Zhengye Yang is incoming Ph.D. student in the [Electrical, Computer, & Systems Engineering](https://www.ecse.rpi.edu) at Rensselaer Polytechnic Institute
 research in computer vision.
 
 Zhengye received a BS in [Electronic Science and Technology](https://electronic.seu.edu.cn/dz_en/)
@@ -28,9 +28,9 @@ he/him
         <div class="span5">
             Zhengye Yang<br/>
             <br/>
-            
-            Email: zy2318@columbia.edu
 
+            Email: zy2318@columbia.edu
+            <br/>
             Phone: 929-319-0588
            
         </div>
