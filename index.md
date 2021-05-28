@@ -28,7 +28,7 @@ body {
 <!-- <img src="./publpics/bg.png"  width="128"/> -->
 
 <div class="span2">
-        <a href="../pics/zhengye.png">
-            <img src="../pics/zhengye.png"
-                  title="Zhengye Yang" alt="Zhengye Yang"/></a>
+        <a href="./publpics/bg.png">
+            <img src="./publpics/bg.png"
+                  title="maui sea" alt="maui sea"/></a>
         </div>
