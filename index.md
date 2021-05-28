@@ -18,17 +18,12 @@ keywords: Computer Vision, Deep Learning
 
 <table class="wide">
 <tr>
-  <td class="left">
+  <th>
     <a href="publpics/iplotCorr.html">
-        <img src="publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="publpics/bg.HEIC" alt="Maui Sea" title="RMaui Sea"/>
     </a>
-  </td>
-  <td class="right">
-    <a href="publpics/mppdiag_fig4.html">
-        <img src="publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
-    </a>
-  </td>
+  </th>
+ 
 </tr>
 
 </table>
