@@ -9,7 +9,7 @@ keywords: Computer Vision, Deep Learning
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/zhengye_cv_2_1.pdf">CV</a></li>
-          <li><a href="https://github.com/zylearncoding">Github</a></li>
+          <li><a href="https://github.com/zylearncoding"<img border="0" alt="Github" src="icons16/github-icon.png" width="100" height="100"></a></li>
           <li><a href="https://www.linkedin.com/in/zhengye-yang/">LinkedIn</a></li>
           <li><a href="https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en">Google Scholar</a></li>
       </ul>
