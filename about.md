@@ -14,9 +14,9 @@ Columbia Univeristy; his PhD advisor is
 [Rich Radke](https://www.ecse.rpi.edu/~rjradke/index.htm).
 
 [Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/zhengye_cv_2_1.pdf)<br/>
-[Google Scholar](https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en)<br/>
-[Github](https://github.com/zylearningcoding)<br/>
-[LinkedIn](https://www.linkedin.com/in/zhengye-yang/)<br/>
+[Google Scholar ![GS as link](icons16/googlescholar-icon.png)](https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en)<br/>
+[Github  ![Git as link](icons16/github-icon.png)](https://github.com/zylearningcoding)<br/>
+[LinkedIn  ![LinkedIn as link](icons16/github-icon.png)](https://www.linkedin.com/in/zhengye-yang/)<br/>
 he/him
 
 ---
@@ -30,6 +30,7 @@ he/him
             <br/>
 
             Email: zy2318@columbia.edu
+            <br/>
             <br/>
             Phone: 929-319-0588
            

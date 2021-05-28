@@ -4,7 +4,7 @@ title: Zhengye Yang
 description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision
 keywords: Computer Vision, Deep Learning 
 ---
-<!-- 
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -14,7 +14,7 @@ keywords: Computer Vision, Deep Learning
           <li><a href="https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en">Google Scholar</a></li>
       </ul>
   </div>
-</div> -->
+</div>
 
 
 <style>
@@ -25,10 +25,3 @@ body {
   background-size: cover;
 }
 </style>
-<!-- <img src="../publpics/bg_screen.png"  width="1280"/> -->
-
-<!-- <div class="span2">
-        <a href="../publpics/bg_screen.png">
-            <img src="../publpics/bg_screen.png"
-                  title="maui sea" alt="maui sea"/></a>
-        </div> -->
