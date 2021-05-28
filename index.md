@@ -16,15 +16,9 @@ keywords: Computer Vision, Deep Learning
   </div>
 </div>
 
-<table class="wide">
-<tr>
-  <th>
-    <a href="publpics/iplotCorr.html">
-        <img src="publpics/bg.png" alt="Maui Sea" title="RMaui Sea"/>
-    </a>
-  </th>
- 
-</tr>
 
-</table>
-
+<style>
+body {
+  background-image: url('publpics/bg.png');
+}
+</style>
