@@ -28,7 +28,7 @@ body {
 <!-- <img src="./publpics/bg.png"  width="128"/> -->
 
 <div class="span2">
-        <a href="./publpics/bg.jpg">
-            <img src="./publpics/bg.jpg"
+        <a href="../publpics/bg_screen.png">
+            <img src="../publpics/bg_screen.png"
                   title="maui sea" alt="maui sea"/></a>
         </div>
