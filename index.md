@@ -20,5 +20,8 @@ keywords: Computer Vision, Deep Learning
 <style>
 body {
   background-image: url('publpics/bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 </style>
