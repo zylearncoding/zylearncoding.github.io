@@ -20,7 +20,7 @@ keywords: Computer Vision, Deep Learning
 <tr>
   <th>
     <a href="publpics/iplotCorr.html">
-        <img src="publpics/bg.HEIC" alt="Maui Sea" title="RMaui Sea"/>
+        <img src="publpics/bg.png" alt="Maui Sea" title="RMaui Sea"/>
     </a>
   </th>
  
