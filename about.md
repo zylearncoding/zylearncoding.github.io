@@ -16,11 +16,10 @@ Columbia Univeristy; his PhD advisor is
 [Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/zhengye_cv_2_1.pdf)<br/>
 [Google Scholar ![GS as link](icons16/googlescholar-icon.png)](https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en)<br/>
 [Github  ![Git as link](icons16/github-icon.png)](https://github.com/zylearningcoding)<br/>
-[LinkedIn  ![LinkedIn as link](icons16/github-icon.png)](https://www.linkedin.com/in/zhengye-yang/)<br/>
+[LinkedIn  ![LinkedIn as link](icons16/linkedin-icon.png)](https://www.linkedin.com/in/zhengye-yang/)<br/>
 he/him
 
-<a href="https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en">
-<img border="0" alt="googlescholar" src="icons16/googlescholar-icon.png" width="100" height="100"></a>
+
 
 
 
