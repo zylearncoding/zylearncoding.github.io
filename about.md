@@ -9,8 +9,7 @@ Zhengye received a BS in [Electronic Science and Technology](https://electronic.
 in 2018, from the
 Southeast University, and a
 MS in [Electrical Engineering](https://www.ee.columbia.edu) in 2020, from the
-Columbia Univeristy; his PhD advisor is
-.
+Columbia Univeristy.
 
 
 <a href="{{ BASE_PATH }}/zhengye_cv_2_1.pdf">
