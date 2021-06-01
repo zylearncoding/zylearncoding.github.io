@@ -17,7 +17,7 @@ keywords: Computer Vision, Deep Learning
 </div> -->
 
 <div class="navbar">
-  <div style = "background-color: rgba(0,0,0,0.6);" class="navbar-inner">
+  <div class="navbar-inner" style = "background-color: rgba(0,0,0,0.6)" >
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/zhengye_cv_2_1.pdf"><img border="0" alt="CV" src="high_res_icon/cv-icon.png" width="64" height="64"></a></li>
           <li><a href="https://github.com/zylearncoding"><img border="0" alt="Github" src="high_res_icon/github-icon.png" width="64" height="64"></a></li>
