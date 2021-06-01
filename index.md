@@ -34,7 +34,7 @@ p.intro{
 background-color: rgba(0,0,0,0.6);
 color: white;
 font-family: Arial;
-font-size:30px;
+font-size:20px;
 line-height: 1.6;
 }
 body {
