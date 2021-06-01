@@ -35,6 +35,11 @@ div.intro{
 width: 60%;
 border: 5px solid #FFFF00;
 padding: 10px;
+position: absolute;
+top: 50%;
+transform: translate(0, -50%);
+
+
 }
 p.intro{
 background-color: rgba(0,0,0,0.6);
