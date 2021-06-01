@@ -68,7 +68,7 @@ I love things that last long and are designed with purposes. Denim, leather are 
 <style>
 
 body {
-  background-image: url('../publpics/halei.png');
+  background-image: url('../publpics/alaska.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
