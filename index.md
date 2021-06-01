@@ -35,7 +35,7 @@ div.intro{
   margin: auto;
 
 padding: 10px;
-position: absolute;
+
 
 transform: translate(0, -50%);
 
@@ -52,7 +52,7 @@ top: 50%;
 
 
 padding: 10px;
-position: absolute;
+
 
 transform: translate(0, -50%);
 }
