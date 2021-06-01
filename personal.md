@@ -43,8 +43,8 @@ I love things that last long and are designed with purposes. Denim, leather are 
 </tr>
 <tr>
   <td >
-    <a href="../publpics/bg_personal.png">
-            <img src="../publpics/bg_personal.png"
+    <a href="../publpics/halei.png">
+            <img src="../publpics/halei.png"
                   title="maui " alt="maui"/></a>
   </td>
   
@@ -68,7 +68,7 @@ I love things that last long and are designed with purposes. Denim, leather are 
 <style>
 
 body {
-  background-image: url('../publpics/bg_personal.png');
+  background-image: url('../publpics/halei.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
