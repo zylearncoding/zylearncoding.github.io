@@ -33,7 +33,7 @@ Welcome to my website! Zhengye Yang is incoming Ph.D. student in the Electrical 
 div.intro{
   top: 50%;
   margin: auto;
-
+position: absolute;
 padding: 10px;
 
 
