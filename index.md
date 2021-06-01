@@ -23,6 +23,7 @@ Zhengye Yang<br/>
 Ph.D. Student <br/>
 Department of Electrical and Computer Engineering <br/>
 Rensselaer Polytechnic Institute <br/>
+zy2318@columbia.edu <br/>
 </p>
 
 </div>
