@@ -28,7 +28,7 @@ p.intro{
 background-color: rgba(0,0,0,0.6);
 color: white;
 font-family: Arial;
-font-size:larger;
+font-size:30px;
 
 }
 body {
