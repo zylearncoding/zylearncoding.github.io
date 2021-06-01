@@ -3,6 +3,7 @@ layout: page
 title: personal
 description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision
 ---
+<div class='hero>
 <p class='personal'>I love to travel and I love things that last long and are designed with purposes. Denim, leather are great materials that fulfill my needs and will get better with time.  
 
 </p>
@@ -61,7 +62,7 @@ description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineerin
 
 
 
-
+</div>
 
 ---
 
@@ -75,11 +76,50 @@ p.personal{
     line-height: 1.6;
 
 }
-body {
+/* body {
   background-image: url('../publpics/bg_screen.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
-  background: rgba(0,0,0,.5);
+  
+} */
+
+*, *::before, *::after {
+  box-sizing: border-box;
 }
+
+html {
+  font-size: 100%;
+}
+body {
+  background-color: #000000;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+.hero { 
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../publpics/bg_screen.png'));
+  background-size: cover;
+  
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    //background-color: rgba(0,0,0,0.25);
+    background-color: rgba(152, 66, 211, 0.63);
+  }
+}
+
 </style>
+
+
