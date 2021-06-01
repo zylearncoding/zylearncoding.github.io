@@ -3,7 +3,7 @@ layout: page
 title: personal
 description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision
 ---
-<div class='hero>
+<div class='hero'>
 <p class='personal'>I love to travel and I love things that last long and are designed with purposes. Denim, leather are great materials that fulfill my needs and will get better with time.  
 
 </p>
