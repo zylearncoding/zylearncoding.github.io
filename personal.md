@@ -61,3 +61,12 @@ Columbia Univeristy; his PhD advisor is
 
 ---
 
+<style>
+
+body {
+  background-image: url('../publpics/bg_personal.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
