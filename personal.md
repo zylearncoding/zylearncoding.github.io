@@ -76,9 +76,10 @@ p.personal{
 
 }
 body {
-  background-image: url('../publpics/bg_personal.png');
+  background-image: url('../publpics/bg_screen.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  background: rgba(0,0,0,.5);
 }
 </style>
