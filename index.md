@@ -16,7 +16,7 @@ keywords: Computer Vision, Deep Learning
   </div>
 </div> -->
 
-<div class="navbar" style = "background-color: rgba(0,0,0,0.6)">
+<div  style = "background-color: rgba(0,0,0,0.6)" class="navbar">
   <div class="navbar-inner" style = "background-color: rgba(0,0,0,0.6)" >
       <ul class="nav" style = "background-color: rgba(0,0,0,0.6)">
           <li><a href="{{ BASE_PATH }}/zhengye_cv_2_1.pdf"><img border="0" alt="CV" src="high_res_icon/cv-icon.png" width="64" height="64"></a></li>
