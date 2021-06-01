@@ -48,6 +48,14 @@ color: white;
 font-family: Arial;
 font-size:20px;
 line-height: 1.6;
+top: 50%;
+  margin: auto;
+width: 60%;
+border: 5px solid #FFFF00;
+padding: 10px;
+position: absolute;
+
+transform: translate(0, -50%);
 }
 body {
   background-image: url('../publpics/bg_screen.png');
