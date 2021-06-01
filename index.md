@@ -30,6 +30,12 @@ Welcome to my website! Zhengye Yang is incoming Ph.D. student in the Electrical 
 </div>
 
 <style>
+div.intro{
+  margin: auto;
+width: 60%;
+border: 5px solid #FFFF00;
+padding: 10px;
+}
 p.intro{
 background-color: rgba(0,0,0,0.6);
 color: white;
