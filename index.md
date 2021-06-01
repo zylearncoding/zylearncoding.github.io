@@ -16,7 +16,7 @@ keywords: Computer Vision, Deep Learning
   </div>
 </div> -->
 
-<div class="navbar">
+
   <div class="intro">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/zhengye_cv_2_1.pdf"><img border="0" alt="CV" src="high_res_icon/cv-icon.png" width="64" height="64"></a></li>
@@ -25,7 +25,7 @@ keywords: Computer Vision, Deep Learning
           <li><a href="https://scholar.google.com/citations?user=PGbaGDsAAAAJ&hl=en"><img border="0" alt="Google Scholar" src="high_res_icon/googlescholar-icon.png" width="64" height="64"></a></li>
       </ul>
   </div>
-</div>
+
 
 
 <style>
@@ -33,6 +33,7 @@ div.intro{
 background-color: rgba(0,0,0,0.6);
 color: white;
 font-family: Arial;
+
 }
 body {
   background-image: url('../publpics/bg_screen.png');
