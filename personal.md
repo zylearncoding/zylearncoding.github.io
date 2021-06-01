@@ -31,8 +31,8 @@ Columbia Univeristy; his PhD advisor is
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="../publpics/leather_jkt.jpg">
-            <img src="../publpics/leather_jkt.jpg"
+    <a href="../publpics/leather_jkt.png">
+            <img src="../publpics/leather_jkt.png"
                   title="leather jkt" alt="leather jkt"/></a>
   </td>
   <td class="right">
@@ -43,8 +43,8 @@ Columbia Univeristy; his PhD advisor is
 </tr>
 <tr>
   <td class="left">
-    <a href="../publpics/leather_jkt.jpg">
-            <img src="../publpics/leather_jkt.jpg"
+    <a href="../publpics/leather_jkt.png">
+            <img src="../publpics/leather_jkt.png"
                   title="leather jkt" alt="leather jkt"/></a>
   </td>
   <td class="right">
