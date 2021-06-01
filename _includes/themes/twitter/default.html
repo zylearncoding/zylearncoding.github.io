@@ -1,27 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <style>
-      div.avbar {
-        background-color: rgba(0, 0, 0, 0.6);
-        color: white;
-        
-        margin: 50px;
-        padding: 50px;
-      }
-      a.brand{
-        color: white;
-        font-size: large;
-        font-weight: bold;
-        font-family: Arial;
-      }
-      li.link_nav{
-        color: white;
-        
-        font-weight: bold;
-        font-family: Arial;
-      }
-      </style>
+    
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
@@ -51,7 +31,7 @@
   </head>
 
   <body>
-    <!-- <div class="navbar">
+    <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
@@ -61,20 +41,8 @@
           </ul>
         </div>
       </div>
-    </div> -->
-    <div class='avbar'>
-          
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          
-              <li class='link_nav'><a  href="{{ BASE_PATH }}/about.html">about me</a></li>
-              <!-- <li><a href="{{ BASE_PATH }}/pubs.html">publications</a></li>
-              <li><a href="{{ BASE_PATH }}/talks.html">talks</a></li>
-              <li><a href="{{ BASE_PATH }}/software.html">software</a></li>
-              <li><a href="{{ BASE_PATH }}/teaching.html">teaching</a></li>
-              <li><a href="{{ BASE_PATH }}/tutorials.html">tutorials</a></li> -->
-          
-      
     </div>
+    
     <div class="container-narrow">
 
       <div class="content">
