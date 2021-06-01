@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: about
 description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision
 ---
 Zhengye Yang is incoming Ph.D. student in the [Electrical, Computer, & Systems Engineering](https://www.ecse.rpi.edu) at Rensselaer Polytechnic Institute
