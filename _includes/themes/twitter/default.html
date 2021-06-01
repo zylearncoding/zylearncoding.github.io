@@ -2,12 +2,17 @@
 <html lang="en">
   <head>
     <style>
-      div.avbar {
+      ul.avbar {
         background-color: rgba(0, 0, 0, 0.6);
         color: white;
         
-        margin: 20px;
-        padding: 20px;
+        margin: 50px;
+        padding: 50px;
+      }
+      a.brand{
+        color: white;
+        font-size: large;
+        font-weight: bold;
       }
       </style>
     <meta charset="utf-8">
@@ -50,8 +55,8 @@
         </div>
       </div>
     </div> -->
-    <div class="avbar">
-     
+    <div >
+          <ul class='avbar'>
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           
               <li><a href="{{ BASE_PATH }}/about.html">about me</a></li>
@@ -60,7 +65,7 @@
               <li><a href="{{ BASE_PATH }}/software.html">software</a></li>
               <li><a href="{{ BASE_PATH }}/teaching.html">teaching</a></li>
               <li><a href="{{ BASE_PATH }}/tutorials.html">tutorials</a></li> -->
-     
+          </ul>
       
     </div>
     <div class="container-narrow">
