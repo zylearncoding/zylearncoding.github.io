@@ -3,15 +3,14 @@ layout: page
 title: about
 description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision
 ---
-Zhengye Yang is incoming Ph.D. student in the [Electrical, Computer, & Systems Engineering](https://www.ecse.rpi.edu) at Rensselaer Polytechnic Institute
-research in computer vision.
+I am an incoming Ph.D. student in the [Electrical, Computer, & Systems Engineering](https://www.ecse.rpi.edu) at Rensselaer Polytechnic Institute. I will work with Prof. [Rich Radke](https://www.ecse.rpi.edu/~rjradke/index.htm). My research interest lies in computer vision and deep learning.
 
 Zhengye received a BS in [Electronic Science and Technology](https://electronic.seu.edu.cn/dz_en/)
 in 2018, from the
 Southeast University, and a
 MS in [Electrical Engineering](https://www.ee.columbia.edu) in 2020, from the
 Columbia Univeristy; his PhD advisor is
-[Rich Radke](https://www.ecse.rpi.edu/~rjradke/index.htm).
+.
 
 
 <a href="{{ BASE_PATH }}/zhengye_cv_2_1.pdf">

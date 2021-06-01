@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: personal
 description: Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision
 ---
 Zhengye Yang is incoming Ph.D. student in the [Electrical, Computer, & Systems Engineering](https://www.ecse.rpi.edu) at Rensselaer Polytechnic Institute
@@ -28,6 +28,32 @@ Columbia Univeristy; his PhD advisor is
 </a>
 
 
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="../pics/zhengye.png">
+            <img src="../publpics/leather_jkt.jpg"
+                  title="leather jkt" alt="leather jkt"/></a>
+  </td>
+  <td class="right">
+    <p >
+        I love things that last long and are designed with purposes. Denim, leather are great materials that fulfill my needs and will get better and better with time.
+    </p>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="../pics/zhengye.png">
+            <img src="../publpics/leather_jkt.jpg"
+                  title="leather jkt" alt="leather jkt"/></a>
+  </td>
+  <td class="right">
+    <p >
+        I love things that last long and are designed with purposes. Denim, leather are great materials that fulfill my needs and will get better and better with time.
+    </p>
+  </td>
+</tr>
+</table>
 
 
 
@@ -35,25 +61,3 @@ Columbia Univeristy; his PhD advisor is
 
 ---
 
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Zhengye Yang<br/>
-            <br/>
-
-            Email: zy2318@columbia.edu
-            <br/>
-            <br/>
-            Phone: 929-319-0588
-           
-        </div>
-
-        <div class="span2">
-        <a href="../pics/zhengye.png">
-            <img src="../pics/zhengye.png"
-                  title="Zhengye Yang" alt="Zhengye Yang"/></a>
-        </div>
-    </div>
-</div>
