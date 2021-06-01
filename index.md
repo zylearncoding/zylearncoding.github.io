@@ -17,15 +17,18 @@ keywords: Computer Vision, Deep Learning
   </div>
 </div> -->
 
-<div class='intro'>
+<div>
+<p class='intro'>
 Welcome to my website! Zhengye Yang is incoming Ph.D. student in the Electrical Engineering at Rensselaer Polytechnic Institute; research in computer vision.
+</p>
 </div>
 
 <style>
-div.intro{
+p.intro{
 background-color: rgba(0,0,0,0.6);
 color: white;
 font-family: Arial;
+font-size:large;
 
 }
 body {
